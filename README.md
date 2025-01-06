@@ -1,5 +1,11 @@
-## Hi there 👋
+## Olá!👋 Me chamo Artur Mulatti!
+💻 Cursei o ensino Médio Técnico em Informática |IFPR Campus Paranavaí
+🎓 Aluno do primeiro ano de Informática na UEM(Universidade estadual de Maringá)
+⚡ Apaixonado pela área da informática e programação!
+🌎 Inglês intermediário
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 <!--
 **arturmulatti/arturmulatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
