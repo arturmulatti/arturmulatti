@@ -7,6 +7,10 @@
 
 🌎 Inglês intermediário
 
+Experiência com as linguagens:
+<div style="display:inline-block">
+<img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+</div>
 
 ![Git Hub Status Artur Mulatti](https://github-readme-stats.vercel.app/api?username=arturmulatti&show_icons=true&theme=transparent)
 <!--
